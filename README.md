@@ -37,6 +37,7 @@ Install dependencies:
 
 ```bash
 pip install numpy pandas seaborn jupyter
+```
 
 ## 🎯 Purpose
 - Learn essential Python libraries
